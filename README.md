@@ -33,13 +33,13 @@
 - trello
 - sketch
 
-###PDCA
+### PDCA
 - google optimise
 - optimizely
 - VWO
 - SEO対策
 
-###デザイン
+### デザイン
 - UI / UX
 - 名刺
 - パンフレット
