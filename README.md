@@ -2,7 +2,7 @@
 ## 基本情報
 |key|value|
 |---|-----|
-|Name|田村侑子(Yuko Tamura)|
+|Name|田村（井戸）侑子(Yuko Tamura)|
 |website|[サイト](http://yuko-tam.net/)|
 |Facebook|[yuko.tamura](https://www.facebook.com/yuko.tamura)|
 |Instagram|[yuko_tmr](https://www.instagram.com/yuko_tmr/)|
