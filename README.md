@@ -18,6 +18,7 @@
 - Wordpress
 - MovableType
 - WebRelease
+- ruby on rails（ソースコードの埋め込みや修正程度）
 
 
 ### ツール
