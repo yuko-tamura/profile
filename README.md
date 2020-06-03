@@ -8,7 +8,7 @@
 |Instagram|[yuko_tmr](https://www.instagram.com/yuko_tmr/)|
 |Instagram|[theta.trip](https://www.instagram.com/theta.trip/)|
 |wantedly|[Yuko Tamura](https://www.wantedly.com/users/299518)|
-|ポートフォリオ|[pinterest](https://pin.it/1J9VPlN)　招待コードになります。|
+|ポートフォリオ|[pinterest](https://pin.it/3attqjc)　招待コードになります。|
 
 ## スキル
 ### 言語
